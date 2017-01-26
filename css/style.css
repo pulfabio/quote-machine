@@ -1,0 +1,51 @@
+body {
+    /*position: relative;*/
+    padding-top: 50px;
+    background-color: #16a085;
+    transition: background-color 2s;
+}
+
+.title {
+    color: #ffffe6;
+}
+
+.quotes {
+    margin-top: 50px;
+}
+
+.quote-box {
+    background-color: #ffffe6;
+    color: #16a085;
+    border-radius: 10px;
+    padding: 30px 50px 30px 50px;
+    height: auto;
+    width: 600px;
+    transition: color 2s;
+}
+
+.quote-buttons {
+    height: 46px;
+}
+
+.twitter-btn{
+    height: 46px;
+}
+
+.fa-square-o {
+    color: #16a085;
+    transition: color 2s;
+
+
+}
+
+.fa-twitter {
+    color: #16a085;
+    transition: color 2s;
+}
+
+.new-quote-btn {
+    background-color: #16a085;
+    height: 46px;
+    color: #ffffe6;
+    transition: background-color 2s;
+}
